@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Conversion app</string>
+
+
+    <string-array name="main_cat_st">
+        <item>Select Option</item>
+        <item>Currency</item>
+        <item>Weight</item>
+        <item>Length</item>
+        <item>Temperature</item>
+        <item>Time</item>
+        <item>Speed</item>
+    </string-array>
+
+    <string-array name="curr_cat">
+        <item>Select Option</item>
+        <item>$ to PKR</item>
+        <item>PKR to $</item>
+        <item>Euro to PKR</item>
+        <item>PKR to Euro</item>
+    </string-array>
+
+    <string-array name="wei_cat">
+        <item>Select Option</item>
+        <item>Kg to lbs</item>
+        <item>lbs to Kg</item>
+        <item>gm to pound</item>
+        <item>pound to gm</item>
+    </string-array>
+
+    <string-array name="len_cat">
+        <item>Select Option</item>
+        <item>meter to feet</item>
+        <item>feet to meter</item>
+        <item>meter to inch</item>
+        <item>inch to meter</item>
+    </string-array>
+
+    <string-array name="temp_cat">
+        <item>Select Option</item>
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+        <item>Celsius to Kelvin</item>
+        <item>Kelvin to Celsius</item>
+    </string-array>
+
+    <string-array name="time_cat">
+        <item>Select Option</item>
+        <item>min to sec</item>
+        <item>sec to min</item>
+        <item>hr to min</item>
+        <item>min to hr</item>
+    </string-array>
+
+
+    <string-array name="speed_cat">
+        <item>Select Option</item>
+        <item>m/s to km/h</item>
+        <item>km/h to m/s</item>
+        <item>mil/h to m/s</item>
+        <item>m/s to mil/h</item>
+    </string-array>
+</resources>
